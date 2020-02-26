@@ -78,11 +78,12 @@
 			}
 		},
 		"resources": {
-			"css": [
-				{
-					"uri": "css/style.css"
-				}
-			]
+			"css": [{
+				"uri": "css/style.css"
+			}],
+			"js": [{
+				"uri": "/util/xlsx.js"
+			}]
 		},
 		"routing": {
 			"config": {
