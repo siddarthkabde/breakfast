@@ -1,4 +1,4 @@
-<mvc:View controllerName="master.launchpad.controller.FileUpload" displayBlock="true" xmlns="sap.m" xmlns:l="sap.ui.layout.form" xmlns:u="sap.ui.unified"
+<mvc:View controllerName="ZIProfile.controller.Profile" displayBlock="true" xmlns="sap.m" xmlns:l="sap.ui.layout.form" xmlns:u="sap.ui.unified"
 	xmlns:mvc="sap.ui.core.mvc">
 	<App>
 		<pages>
