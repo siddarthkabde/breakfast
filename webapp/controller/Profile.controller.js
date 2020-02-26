@@ -11,11 +11,11 @@ sap.ui.define([
 		 * @memberOf ZIProfile.view.Profile
 		 */
 			onInit: function() {
-				var imgLinkedin,imgProfile;
-				imgLinkedin = this.getView().byId("imgLinkedin");
-				imgProfile = sap.ui.getCore().byId("__content0");
-				imgLinkedin.addStyleClass("imgLinkedin");
-				imgProfile.addStyleClass("imgProfile");
+				// var imgLinkedin,imgProfile;
+				// imgLinkedin = this.getView().byId("imgLinkedin");
+				// imgProfile = sap.ui.getCore().byId("__content0");
+				// imgLinkedin.addStyleClass("imgLinkedin");
+				// imgProfile.addStyleClass("imgProfile");
 			}
 
 		/**
