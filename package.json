@@ -11,7 +11,9 @@
   },
   "dependencies": {
     "ejs": "^2.5.7",
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "mongodb": "^2.2.5",
+    "node-inspector": "0.7.x"
   },
   "devDependencies": {
     "request": "^2.81.0",
